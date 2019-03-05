@@ -1,0 +1,114 @@
+nav list{
+  display: flex;
+  box-shadow: 1px 1px white;
+  background: white;
+  color: black;
+}
+li>a:hover{
+  color: black;
+  background: #DCD0CD;
+}
+nav list li{
+  list-style: none;
+  margin: 2%;
+  box-shadow: 1px 1px white;
+  padding: 1% 2%;
+}
+nav list li a{
+  text-decoration: none;
+  color: black;
+}
+.pj img{
+  width: 50%;
+  height: 50%;
+  margin: auto;
+}
+.pj{
+  display: flex;
+  box-shadow: 1px 1px white;
+  margin: 2%;
+  padding: 1%;
+}
+.pj li{
+  text-align: center;
+  list-style: none;
+  background: silver;
+  margin: 8%;
+}
+.pj li a{
+  text-decoration: none;
+}
+.pj h3{
+  margin: auto;
+}
+h2{
+  text-align: center;
+}
+.f1 img{
+  width: 50%;
+  height: 50%;
+  margin: auto;
+}
+.f1{
+  display: flex;
+  box-shadow: 1px 1px white;
+  margin: 2%;
+  padding: 1%;
+}
+.f1 h3{
+  margin: auto;
+}
+.f2{
+  display: flex;
+}
+.f2 img{
+  width: 50%;
+  height: 50%;
+  margin: auto;
+}
+.f2{
+  display: flex;
+  box-shadow: 1px 1px white;
+  margin: 2%;
+  padding: 1%;
+}
+.f2 h3{
+  margin: auto;
+}
+.f3{
+  display: flex;
+}
+.f3 img{
+  width: 50%;
+  height: 50%;
+  margin: auto;
+}
+.f3{
+  display: flex;
+  box-shadow: 1px 1px white;
+  margin: 2%;
+  padding: 1%;
+}
+.f3 h3{
+  margin: auto;
+}
+.f4{
+  display: flex;
+}
+.f4 img{
+  width: 50%;
+  height: 50%;
+  margin: auto;
+}
+.f4{
+  display: flex;
+  box-shadow: 1px 1px white;
+  margin: 2%;
+  padding: 1%;
+}
+.f4 h3{
+  margin: auto;
+}
+footer{
+  text-align: center;
+}
